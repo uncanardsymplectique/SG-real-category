@@ -1,10 +1,18 @@
 # SG-real-category
 
-This repositery contains three files:
-+ this README.md
+This repositery contains 4 files:
++ arXiv_Harvesting_SG.ipynb
+
+which will write for you :
+
 + arXiv_SG_total_formatted_csv
+
+which contains the data needed by :
+
 + SG-real-category.ipyng
 
-The third file is the ipython notebook used to give the picture of [this post](https://uncanardsymplectique.github.io/(m%C3%A9ta-)maths/blog/humour/english/SG-is-a-category/).
+which will in turn give the picture of [this post](https://uncanardsymplectique.github.io/(m%C3%A9ta-)maths/blog/humour/english/SG-is-a-category/).
 
-It uses data contained in the csv file.
++ this README.md
+
+Because README.md's are useful.
